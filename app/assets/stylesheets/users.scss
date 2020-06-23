@@ -12,6 +12,7 @@ $gray2: #ccc;
   border-right: solid 2px currentColor;
   -webkit-transform: rotate(45deg);
           transform: rotate(45deg);
+  margin: 0;
 }
 @mixin mypage-tabs($background-color) {
   width: 350px;
